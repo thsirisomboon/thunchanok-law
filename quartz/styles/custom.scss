@@ -1,3 +1,244 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+/* =========================================
+   THUNCHANOK LAW — SOFT PASTEL
+   Blue · Green · Pink · Cream · White · Gray
+   ========================================= */
+
+:root {
+  --pastel-blue: #b9dff2;
+  --pastel-green: #bfe3d0;
+  --pastel-pink: #f4c6d2;
+  --pastel-cream: #fff6df;
+  --pastel-white: #ffffff;
+  --pastel-gray: #e8e8e8;
+  --pastel-text: #555b61;
+  --pastel-dark-text: #3f464c;
+}
+
+
+/* =========================================
+   PAGE
+   ========================================= */
+
+body {
+  background: #fcfbf8;
+  color: var(--pastel-text);
+}
+
+
+/* =========================================
+   HEADINGS
+   ========================================= */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--pastel-dark-text);
+}
+
+h1 {
+  border-bottom: 3px solid var(--pastel-blue);
+  padding-bottom: 0.4rem;
+}
+
+h2 {
+  border-bottom: 2px solid var(--pastel-green);
+  padding-bottom: 0.3rem;
+}
+
+h3 {
+  color: #58717d;
+}
+
+
+/* =========================================
+   LINKS
+   ========================================= */
+
+a {
+  color: #5689a3;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: #d27f96;
+}
+
+
+/* =========================================
+   BOLD TEXT
+   ========================================= */
+
+strong {
+  color: #58717d;
+}
+
+
+/* =========================================
+   BLOCKQUOTES
+   ========================================= */
+
+blockquote {
+  background: #fdf4f6;
+  border-left: 4px solid var(--pastel-pink);
+  border-radius: 10px;
+  padding: 1rem 1.2rem;
+}
+
+
+/* =========================================
+   CODE
+   ========================================= */
+
+code {
+  background: #f1f4f4;
+  border-radius: 5px;
+  padding: 0.15em 0.35em;
+}
+
+
+/* =========================================
+   HORIZONTAL RULE
+   ========================================= */
+
+hr {
+  border: none;
+  border-top: 2px solid var(--pastel-gray);
+  margin: 2rem 0;
+}
+
+
+/* =========================================
+   TABLES
+   ========================================= */
+
+table {
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--pastel-white);
+}
+
+th {
+  background: var(--pastel-blue);
+  color: #435861;
+}
+
+tr:nth-child(even) {
+  background: #f8fbfa;
+}
+
+
+/* =========================================
+   IMAGES
+   ========================================= */
+
+img {
+  border-radius: 12px;
+}
+
+
+/* =========================================
+   CALLOUTS
+   ========================================= */
+
+.callout {
+  border-radius: 12px;
+}
+
+
+/* =========================================
+   INTERNAL LINKS
+   ========================================= */
+
+.internal-link {
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.internal-link:hover {
+  background: #fdf0f4;
+}
+
+
+/* =========================================
+   TEXT SELECTION
+   ========================================= */
+
+::selection {
+  background: var(--pastel-blue);
+  color: var(--pastel-dark-text);
+}
+
+
+/* =========================================
+   DARK MODE
+   ========================================= */
+
+[saved-theme="dark"] {
+  --pastel-bg-dark: #252a2d;
+  --pastel-surface-dark: #303638;
+  --pastel-text-dark: #e8eeee;
+
+  background: var(--pastel-bg-dark);
+  color: var(--pastel-text-dark);
+}
+
+[saved-theme="dark"] body {
+  background: var(--pastel-bg-dark);
+  color: var(--pastel-text-dark);
+}
+
+[saved-theme="dark"] h1,
+[saved-theme="dark"] h2,
+[saved-theme="dark"] h3,
+[saved-theme="dark"] h4,
+[saved-theme="dark"] h5,
+[saved-theme="dark"] h6 {
+  color: #dcebef;
+}
+
+[saved-theme="dark"] h1 {
+  border-bottom-color: var(--pastel-blue);
+}
+
+[saved-theme="dark"] h2 {
+  border-bottom-color: var(--pastel-green);
+}
+
+[saved-theme="dark"] blockquote {
+  background: #333034;
+  border-left-color: var(--pastel-pink);
+}
+
+[saved-theme="dark"] code {
+  background: #343b3d;
+}
+
+[saved-theme="dark"] table {
+  background: var(--pastel-surface-dark);
+}
+
+[saved-theme="dark"] th {
+  background: #45636d;
+  color: #edf7f8;
+}
+
+[saved-theme="dark"] tr:nth-child(even) {
+  background: #2c3234;
+}
+
+[saved-theme="dark"] a {
+  color: #a9d5e8;
+}
+
+[saved-theme="dark"] a:hover {
+  color: #f0b4c4;
+}
+
+[saved-theme="dark"] strong {
+  color: #b9dfd0;
+}
