@@ -1,107 +1,115 @@
-# ⚖️ Executive Law Command Center
+# ⚖️ THUNCHANOK LAW
 
-### International Law · Economics · Finance · Languages · Strategic Learning
+### International Law · International Economic Law · Finance · Investment
 
-A multidisciplinary knowledge and learning system integrating **international law, international economics, finance, languages, and strategic professional development** into a single executive-level knowledge hub.
-
----
-
-## 🎯 Professional Profile
-
-### Multidisciplinary Expertise
-International trade and financial law, international economics, corporate finance, MBA fundamentals, and multilingual communication across **English, Spanish, French, Korean, and Bahasa Malaysia**.
-
-### 🌍 Digital-Nomad Professional
-A location-independent professional who combines continuous learning, cross-disciplinary research, legal-economic analysis, and strategic consulting through an optimized personal knowledge management system.
-
-### 💻 Digital Knowledge Ecosystem
-Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and iPhone**, enabling research, writing, language learning, knowledge management, and professional work from anywhere.
+A structured legal knowledge system for studying, researching, and analysing the legal frameworks governing cross-border economic activity.
 
 ---
 
-# 📚 Knowledge Hub
+## 🎯 Executive Law Command Center
 
-## ⚖️ 1. International Law & International Economics
+The central hub for building advanced expertise in **international law and international economic law**, with particular emphasis on the interaction between law, finance, investment, trade, and global economic governance.
+
+---
+
+## 📚 Knowledge Hub
+
+### 1. Public International Law
+
+[[public-international-law|Public International Law]]
+
+Foundations of the international legal order, including sources of international law, jurisdiction, state responsibility, treaties, immunities, and dispute settlement.
+
+---
+
+### 2. International Economic Law
+
+[[international-economic-law|International Economic Law]]
+
+The legal architecture governing international economic relations.
+
+- [[international-trade-law|International Trade Law]]
+- [[international-investment-law|International Investment Law]]
+- [[international-financial-law|International Financial Law]]
+- [[international-economic-governance|International Economic Governance]]
+
+---
+
+### 3. International Financial Law
+
+[[international-financial-law|International Financial Law]]
+
+Legal frameworks surrounding cross-border finance, sovereign debt, capital markets, financial regulation, and international monetary relations.
+
+---
+
+### 4. International Investment Law
+
+[[international-investment-law|International Investment Law]]
+
+Treaty-based investment protection, investor–State dispute settlement, expropriation, fair and equitable treatment, and regulatory authority.
+
+---
+
+### 5. International Trade Law
 
 [[international-trade-law|International Trade Law]]
 
-[[digital-financial-law|Digital Financial Law & Financial Innovation]]
-
-[[international-economics|International Economics & Trade Policy]]
+WTO law, regional trade agreements, trade remedies, market access, and the relationship between trade regulation and domestic policy.
 
 ---
 
-## 🌐 2. Polyglot Language Hub
+## 🔬 Research & Analysis
 
-[[english-c2|English — C2 Academic & Legal Precision]]
+[[legal-research|Legal Research]]
 
-[[spanish-c2|Español — C2 Mastery]]
+[[legal-writing|Legal Writing]]
 
-[[french-c2|Français — C2 Mastery]]
+[[case-law|Case Law & Dispute Settlement]]
 
-[[korean-c2|한국어 — C2 Precision]]
+[[treaties|Treaties & International Instruments]]
 
-[[malay-c2|Bahasa Malaysia — C2 Competency]]
-
----
-
-## 🎯 3. IELTS Band 9 Preparation
-
-[[ielts-writing-task2|IELTS Writing Task 2 — Academic Writing & Structure]]
-
-[[ielts-speaking|IELTS Speaking — Fluency & Coherence]]
+[[research-questions|Research Questions]]
 
 ---
 
-## 📈 4. Finance & Investment
-
-[[corporate-finance|Corporate Finance & MBA Fundamentals]]
-
-[[investment-strategies|Investment Strategies & Digital Assets]]
-
----
-
-## 🧠 5. Learn How to Learn
-
-[[obsidian-pkm|Personal Knowledge Management with Obsidian]]
-
-[[learning-framework|Advanced Learning Framework — Polyglot & Legal Expertise]]
-
----
-
-## 🔬 Core Integration
-
-**International Law**  
-↓  
-**International Economic Law**  
-↓  
-**Trade · Investment · Finance · Digital Economy**  
-↓  
-**Economics · Corporate Finance · Policy**  
-
-# LEGAL
-
-↓  
-**Languages · Diplomacy · Cross-Border Communication**  
-↓  
-**Strategic Analysis & Professional Practice**
-
-> **Objective:** Build deep, interconnected expertise rather than isolated knowledge.
-
-# LEGAL
+## 🌏 Law · Finance · Economics
 
 ```mermaid
 flowchart TD
-    A[LEGAL] --> B[International Law]
-    A --> C[Legal Research]
-    A --> D[Legal Writing]
+    A[International Law] --> B[International Economic Law]
 
-    B --> E[Public International Law]
-    B --> F[International Economic Law]
-    B --> G[Human Rights]
-    B --> H[International Criminal Law]
+    B --> C[Trade Law]
+    B --> D[Investment Law]
+    B --> E[International Financial Law]
 
-    F --> I[Trade Law]
-    F --> J[Investment Law]
-    F --> K[International Financial Law]
+    E --> F[Sovereign Debt]
+    E --> G[Capital Markets]
+    E --> H[Financial Regulation]
+
+    C --> I[International Economics]
+    D --> I
+    E --> I
+
+    I --> J[Global Economic Governance]
 ```
+
+---
+
+## 🎓 Academic & Professional Development
+
+[[llm-preparation|LL.M. Preparation]]
+
+[[scholarship|Scholarship & Academic Applications]]
+
+[[diplomacy|Diplomacy & International Affairs]]
+
+[[current-affairs|International Affairs & Current Issues]]
+
+---
+
+## 🧭 Core Research Direction
+
+**How can international legal and economic frameworks facilitate effective cross-border integration while accommodating differences in regulatory capacity, institutional development, and domestic policy priorities?**
+
+> **Objective:** Build narrow and deep expertise at the intersection of **international law, international economic law, finance, and global economic governance**.
