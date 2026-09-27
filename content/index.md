@@ -113,3 +113,8 @@ flowchart TD
 **How can international legal and economic frameworks facilitate effective cross-border integration while accommodating differences in regulatory capacity, institutional development, and domestic policy priorities?**
 
 > **Objective:** Build narrow and deep expertise at the intersection of **international law, international economic law, finance, and global economic governance**.
+
+![Global Trade Routes](global-trade-routes.png)
+
+*Global trade routes and the interconnected architecture of international commerce, finance, and investment.*
+
