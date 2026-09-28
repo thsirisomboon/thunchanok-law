@@ -1,4 +1,4 @@
-EU (home page)
+# EU (home page)
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/3a892e2a-3c61-47ec-b81f-a59b77b01aab" />
 
 - [[EU History and Founding Treaties]]
