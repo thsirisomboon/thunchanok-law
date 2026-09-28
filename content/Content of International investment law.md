@@ -13,5 +13,5 @@
 
 
 
-[[All content of international law]]
+[[Area of international law]]
 [[LEGAL (home page)]]
